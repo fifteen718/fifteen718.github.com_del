@@ -1,7 +1,7 @@
 
 # 个人简历
 
-简体中文 | [English](./en_README.md)
+简体中文 | [English](en_README.MD)
 
 ---
 
