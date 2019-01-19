@@ -77,7 +77,7 @@
 
 ## 🛠 专业技能
 
-常用软件/工具: VSCode, Git, SVN, 禅道, YApi, Jenkins, Tunnelblick, FileZilla, Foxmail, Chrome浏览器, 钉钉, etc.
+常用软件/工具: VSCode, Git, SVN, 禅道, YApi, Jenkins, Tunnelblick, FileZilla, Foxmail, Chrome浏览器, 钉钉等。
 
 ### 技能清单
 | Html/Css/Js | VueJs | ElementUI | ExtJs | jQuery Mobile | jQuery | Weixin Mini Program | NodeJs | iOS/Android |
