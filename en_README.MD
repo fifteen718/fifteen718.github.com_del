@@ -6,55 +6,46 @@ English | [简体中文](README.MD)
 
 ## 🤵🏻 Personal Profile
 
-Born in 1994 in Zhejiang Province, China. Having won the first place in the middle school entrance examination, I was successfully admitted to Dongyang No. 1 Middle School, a key high school in the city. I graduated from Zhejiang University of Technology, a key university in the province. While studying, I actively participated in students'work. I did not let myself fail the course. I succeeded in getting the CET6 certificate, taking part-time jobs on campus and being the first person in charge of a school-level organization.
+Kuroko was born in Jinhua, Zhejiang province in 1994. I graduated from Dongyang Middle School and Zhejiang University of Technology.While studying in college, I actively participated in student work. I served as the person in charge of the new media organization of the School Youth League Committee and the ninth student of The Flying Eagle Class (Student Elite Training Project) of Zhejiang University of Technology.
 
-In 2015, the senior year mainly focused on internship. During this period, I constantly tried to find my own professional position, from the new media operation to Android development,and to iOS development. Finally, I formally contacted with the front-end development in February 2016. After graduation in June 2016, I worked as a full-time front-end development engineer, and went further and further on the road of front-end development, and fell deeper and deeper until I fell in love with this profession. In 2016, when the front-end field of three-legged (React/Vue/Angular), technological innovation is surging, and I was so young, high-spirited! 
+In 2015, I was mainly engaged in new media operation, Android development and iOS development during my senior year as an intern. In 2016, I focused on front-end development after graduation, from native Js to jQuery, and then to ExtJs framework. In 2018, VueJs framework was used as the main framework for each project reconstruction. In 2020, I engaged in back-end interface development at the same time, with C# and Java as the main back-end development.
 
-At work, I am belong to introverted and quiet, while those in life, I am outgoing and lively. Usually, I always love to do things more seriously. I am more willing to pursue the essence of things to help me understand things. My favorite motto is that "Know what it is, know why it is, and know what it will be".
+My personality: considerate, positive, perfectionism, knowledge-seeking, study and work should be 「know what is, know why, know what is inevitable」.
 
-Interests and hobbies: Basketball, Movies, Reading, Travelling, and LOL.
+Interests and hobbies: Basketball, Movies, Reading, Travelling, and Honor of Kings.
 
 ---
 
 ## 🖥 Work Experience
 
-### 2018 April - Present
-> [Zhejiang Yushi Network Technology Co., Ltd.](http://www.zjyushi.com/)
+### 2019 March - 2021 March
+> [CMB Network Technology](https://cmbnt.cmbchina.com/)
+> <br>Front-end Developer & Project Manager
+
+* 【Job content】1. Front-end development of APP lending business of China Merchants Bank. 2. Development of the front and back end of the Tianye data monitoring system. 3. Code refactoring, technology sharing, etc.
+* 【Work performance】1. Optimized white screen loading on the mobile terminal to enhance interaction and improve the loading speed of the first screen. 2. Technical transformation of several management systems in the company, including Vue framework for the front-end and Java for C# technical framework for the back-end, which greatly improved the stability and maintainability of the project code. 3. Responsible for the research of new technology, and took the initiative to hold internal technology sharing meetings for many times.
+* 【Technology application】jQuery, Vue, C#, Java, etc。
+
+---
+
+### 2018 April - 2019 March
+> [Yushi Network Technology](https://www.zjyushi.com/)
 > <br>Front-end Developer & Front-end Manager
 
-* Staffing: Total of employees is 600-800, the developer is 50-70, and the fe-developer is 7-10.
-* Work Content: Provide fe-technical support to the company with assignments, technical issues, program debugging, and front-end interview.
-* Project Introduction: Including PC-side official web, background management system, as well as mobile-side hybrid development, game-page H5 development, etc.
-* Technology Stack: Vue Ecosystem（Vue CLI3 + Vue + Vue Router + Axios + Vuex + VeeVaidate）, ElementUI, MintUI, etc.
+* 【Job content】Mainly responsible for the development of web products of game-related businesses, including H5 game promotion page, embedded H5 page of client, background management system of PC, official website of game brand, etc. At the same time, I was responsible for the company's front-end business needs sorting, workload assessment and scheduling, project construction and maintenance, team member‘s code review and reconstruction, personnel recruitment, etc.
+* 【Work performance】1. Project reconstruction, including the separation of front and back ends, responsive layout and mobile end adaptation. 2. Extract background management system templates and encapsulate common components. 3. Make full use of Git branch management to standardize the deployment process of front-end project development, test and launch.
+* 【Technology application】VueJs（Vue CLI3 + Vue + Vue Router + Axios + Vuex + VeeVaidate）, ElementUI, MintUI, etc。
 
 ---
 
 ### 2016 February - 2018 April
-> [Zhejiang Feiyue Cultural Creative Co., Ltd.](http://www.flyread.com.cn/)
+> [Feiyue Cultural Creative](https://www.flyread.cn/)
 > <br>Front-end Developer & H5 Leader
 
-* Staffing: Total of employees is 60-80, the developer is 30-40, and the fe-developer is 5-7.
-* Work Content: Provide fe-technical support to the company with PC & H5 APP development.
-* Project Introduction: Including PC-side Library Management System and Library OPAC Retrieval Platform, as well as mobile-side OPAC hybrid development, etc.
-* Technology Stack：jQuery, jQuery Mobile, ExtJs, etc.
+* 【Job content】Mainly responsible for the development of web products related to library business, including web desktop system application and mobile H5 application. At the same time, I also developed some temporary requirements, such as H5 operation promotion page, the official website of the company, IP whitelist operation page, etc.
+* 【Work performance】Led the development and launch of OPAC-H5 application project.
+* 【Technology application】jQuery, jQuery Mobile, ExtJs, etc。
 
----
-
-### 2015 October - 2016 February
-> Hangzhou Hacker College
-> <br>iOS Development Student & Intern
-
-* Learning iOS Development.
-* Developing HeWuQi APP, responsible for Personal Center Module.
-
----
-
-### 2015 July - 2015 October
-> [Hangzhou Koala Network Technology Co., Ltd.](https://new.treebear.cn/)
-> <br>New Media Assistant Intern & Android Development Intern
-
-* As a new media operation assistant, I participated in the testing of the use of APP, the promotion of APP, copywriting planning and so on.
-* As an android developer, I participated in APP interface modification, code refactoring, etc.
 ---
 
 ## 🎓 Education
@@ -79,6 +70,6 @@ Interests and hobbies: Basketball, Movies, Reading, Travelling, and LOL.
 Frequently-used Tools: VSCode, Git, SVN, ZenTao, YApi, Jenkins, Tunnelblick, FileZilla, Foxmail, Chrome, DingTalk, etc.
 
 ### Skills List
-| Html/Css/Js | VueJs | ElementUI | ExtJs | jQuery Mobile | jQuery | Weixin Mini Program | NodeJs | iOS/Android |
+| Html/Css/Js | jQuery | VueJs | ExtJs | C# | Java | NodeJs | Weixin Mini Program | iOS/Android |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| 80% | 80%| 90%| 70% | 60% | 80% | 60% | 20% | 10% |
+| 90% | 80%| 80%| 70% | 70% | 60% | 60% | 60% | 20% |
